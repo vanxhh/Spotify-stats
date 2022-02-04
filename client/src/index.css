@@ -18,15 +18,3 @@ body {
 a {
   text-decoration: none;
 }
-
-::-webkit-scrollbar {
-  width: 0.5rem;
-}
-
-::-webkit-scrollbar-thumb {
-  background: rgb(134, 134, 134);
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: rgb(100, 100, 100);
-}
